@@ -1,6 +1,9 @@
 # Slidely - Submission Tracker
 
 Slidely is a Windows Forms application for tracking submissions. It allows users to create, view, and manage submissions with ease. This project demonstrates the use of VB.NET for creating a user-friendly UI and interacting with a backend server.
+![Screenshot 2024-06-21 130753](https://github.com/axle-blaze/Slidely-FrontEnd/assets/116265265/12eacd2c-8f76-457f-80c1-b6c851522780)
+![Screenshot 2024-06-21 130827](https://github.com/axle-blaze/Slidely-FrontEnd/assets/116265265/9939dc6b-859e-4c39-b107-9a0cbf191569)
+![Screenshot 2024-06-21 130827](https://github.com/axle-blaze/Slidely-FrontEnd/assets/116265265/fabdeaab-5eb4-4b25-ba59-48c7ac3833ad)
 
 ## Features
 
