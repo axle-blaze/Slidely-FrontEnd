@@ -7,6 +7,9 @@
         Me.StartPosition = FormStartPosition.CenterScreen
         Me.BackColor = Color.FromArgb(255, 230, 240) ' Light pink background for the form
 
+        ' Enable KeyPreview to capture key events
+        Me.KeyPreview = True
+
         ' Set button properties
         btnViewSubmissions.Text = "View Submissions"
         btnCreateSubmission.Text = "Create Submission"
