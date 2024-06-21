@@ -1,0 +1,17 @@
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\bin\Debug\Slidely.exe.config
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\bin\Debug\Slidely.exe
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\bin\Debug\Slidely.pdb
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\bin\Debug\Slidely.xml
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.vbproj.AssemblyReference.cache
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.Form1.resources
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.FormViewSubmissions.resources
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.Resources.resources
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.vbproj.GenerateResource.cache
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.vbproj.CoreCompileInputs.cache
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.exe
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.xml
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.pdb
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\bin\Debug\Newtonsoft.Json.dll
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\bin\Debug\Newtonsoft.Json.xml
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.vbproj.Up2Date
+C:\Users\singh\OneDrive\Desktop\Web Development\Slidely\FrontEnd\Slidely\obj\Debug\Slidely.FormCreateSubmission.resources
